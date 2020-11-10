@@ -29,6 +29,5 @@ add_function colocar_og_tags(){
         <meta property='og:description' content'" . $resumo ."' >\n
         \n\n\n";
 
-
     }
 }
