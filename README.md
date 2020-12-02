@@ -1,2 +1,1 @@
-# cms_senac
-Repositorio para a disciplica de Content Management System
+##arquivos php do wordpress
